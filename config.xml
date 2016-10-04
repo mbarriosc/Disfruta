@@ -6,10 +6,10 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>DisfrutApp</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+       Tenemos las mejores frutas
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
@@ -51,7 +51,7 @@
     <plugin name="cordova-plugin-whitelist"           source="npm" spec="~1.2.1" />
 
     <!-- Define app icon and splashscreen for each platform. -->
-    <icon src="icon.png" />
+    <icon src="res/android/disfrutaicon.png" />
     <platform name="android">
         <icon   src="www/res/icon/android/drawable-ldpi-icon.png"               density="ldpi" />
         <icon   src="www/res/icon/android/drawable-mdpi-icon.png"               density="mdpi" />
